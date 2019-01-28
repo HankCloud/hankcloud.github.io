@@ -30,6 +30,14 @@ var fun = function lang(l) {
 }
 ```
 
+```ts
+// Typescript code with syntax highlighting.
+let fun = (l)=> {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+```
+
 ```ruby
 # Ruby code with syntax highlighting
 GitHubPages::Dependencies.gems.each do |gem, version|

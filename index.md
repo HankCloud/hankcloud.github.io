@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+The Pragmatic **Programmer**: _From Journeyman_ to ~~Master~~.
 
 [Link to another page](./another-page.html).
 

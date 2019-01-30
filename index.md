@@ -4,6 +4,8 @@ layout: default
 
 The Pragmatic **Programmer**: _From Journeyman_ to ~~Master~~.
 
+My name is **Hank**.
+
 [Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
